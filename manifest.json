@@ -2,7 +2,7 @@
   "addon_name": "Glare",
   "addon_version": [4, 0, 0],
   "blender_version": [4, 4, 0],
-  "optional": true,
+  "skippable": true,
   "download_url": "https://yourdomain.com/downloads/glare-4.0.0.zip",
   "changelog": [
     "Improved bloom and lens flare quality",
