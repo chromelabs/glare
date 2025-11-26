@@ -1,6 +1,6 @@
 {
   "addon_name": "glare",
-  "addon_version": [4, 1, 0],
+  "addon_version": [4, 1, 1],
   "blender_version": [5, 0, 0],
 
   "force": false,
